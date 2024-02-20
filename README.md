@@ -41,11 +41,13 @@ with BME280
 
 
 
-### Planned
+
 
 ## Security
 ### Frigate
 <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=bae574f2b1d26e1c4dc864b7b4f18a73&camp=1634&creative=6738&index=computers&keywords=Raspberry Pi 4 (8gb)">Raspberry Pi 4 (8gb)</a>
+
+<a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=b18d5cb865489258d94c09d54abd64ab&camp=1634&creative=6738&index=computers&keywords=ANNKE C800 4K POE camera">ANNKE C800</a>
 
 ## Network
 ### Current kit
