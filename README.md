@@ -4,7 +4,7 @@ I am using this to save and share various aspects of my journey to build a usefu
 
 Please note that all Amazon links are affiliate links. You may be able to find the products cheaper elsewhere (such as aliexpress).
 
-# ZS-Home-Assistant-Setup
+# My smart home setup
 My Home Assistant, devices, configs, automation etc
 
 # My setup
@@ -15,6 +15,7 @@ My Home Assistant, devices, configs, automation etc
 
 <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=57c09ac598653ce026ce5011a4e2da4d&camp=1634&creative=6738&index=computers&keywords=SONOFF Universal Zigbee 3.0 USB Dongle Plus Gateway with Antenna for Home Assistant, IoBroker, Zigbee2MQTT">SONOFF USB Zigbee dongle</a>
 
+My Smart Devices
 
 <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=d051727f1b05f9783311c94ec41b7a07&camp=1634&creative=6738&index=computers&keywords= tapo p110  smart plug with energy monitoring">Tapo P110 Smart Plug with Energy Monitoring </a>
 
@@ -48,6 +49,26 @@ with BME280
 <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=bae574f2b1d26e1c4dc864b7b4f18a73&camp=1634&creative=6738&index=computers&keywords=Raspberry Pi 4 (8gb)">Raspberry Pi 4 (8gb)</a>
 
 <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=b18d5cb865489258d94c09d54abd64ab&camp=1634&creative=6738&index=computers&keywords=ANNKE C800 4K POE camera">ANNKE C800</a>
+
+## Voice Assistants
+Wyoming Satellite
+
+Raspberry Pi 3b
+Respeaker 2mic
+Generic Speaker
+
+Google Home Mini x6
+
+Google Nest Hub
+
+Lenovo Smart Display 7
+
+## Dashboards
+Amazon Fire Tablet 
+
+Dakboard
+
+
 
 ## Network
 ### Current kit
