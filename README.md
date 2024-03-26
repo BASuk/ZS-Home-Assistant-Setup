@@ -53,8 +53,8 @@ with BME280
 ## Voice Assistants
 Wyoming Satellite
 
-Raspberry Pi 3b
-Respeaker 2mic
+<a target="_blank" href="https://amzn.to/3xdgT3G">Raspberry Pi 3b</a>
+<a target="_blank" href="https://amzn.to/4cyn1U2">Respeaker 2mic</a>
 Generic Speaker
 
 Google Home Mini x6
