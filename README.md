@@ -7,17 +7,24 @@ Please note that all Amazon links are affiliate links. You may be able to find t
 # My Computers (inc pi's)
 ## My PC
 OS: Windows 11 Pro
+
 CPU: AMD Ryzen R5 2700
+
 RAM: 16GB
+
 GPU: MSI Radeon RX 6650 XT 8GB
+
 Mobo: 
 
 ## My family's PC (customised to be a server before turning into a PC)
 OS: Windows 11 Pro
+
 CPU: Intel Core i5-7600
 
 ## <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=f79f0e265b3f2fc0fb89815b1592f991&camp=1634&creative=6738&index=computers&keywords=Raspberry Pi 5 (8gb)">Raspberry Pi 5 (8gb)</a>
+
 OS: Home Assistant OS
+
 Accessories: <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=57c09ac598653ce026ce5011a4e2da4d&camp=1634&creative=6738&index=computers&keywords=SONOFF Universal Zigbee 3.0 USB Dongle Plus Gateway with Antenna for Home Assistant, IoBroker, Zigbee2MQTT">SONOFF USB Zigbee dongle</a>
 
 ## <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=bae574f2b1d26e1c4dc864b7b4f18a73&camp=1634&creative=6738&index=computers&keywords=Raspberry Pi 4 (8gb)">Raspberry Pi 4 (8gb)</a>
@@ -26,11 +33,11 @@ Purpose: Frigate (in docker container)
 Accessories: <a target="_blank" href="https://amzn.to/3RcWwe7">Google Coral TPU USB</a>
 
 ## Raspberry Pi 3b
-NetAlertX
+### NetAlertX
 https://github.com/jokob-sk/NetAlertX
 
 ## Raspberry Pi 3b
-Octoprint
+### Octoprint
 
 ## Network
 ### Current kit
@@ -47,31 +54,25 @@ This is a stop gap measure to power my PoE cameras, it's ugly and inefficient, b
 My Home Assistant, devices, configs, automation etc
 
 ## Home Assistant addons
-Mosquitto broker (mqtt)
-
+### Mosquitto broker (mqtt)
 https://github.com/home-assistant/addons/blob/master/mosquitto/DOCS.md
 
-ESPHome
-
+### ESPHome
 https://esphome.io/
 
-Music Assistant
-
+### Music Assistant
 https://music-assistant.io/ 
 
-Ring-MQTT with Video Streaming
-
+### Ring-MQTT with Video Streaming
 https://github.com/tsightler/ring-mqtt
 
-snapcast-server
-
+### snapcast-server
 https://github.com/Art-Ev/addon-snapserver
 
-Zigbee2MQTT
-
+### Zigbee2MQTT
 https://www.zigbee2mqtt.io/
 
-# Integrations
+## Integrations
 
 
 # Hardware
