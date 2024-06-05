@@ -48,16 +48,27 @@ My Home Assistant, devices, configs, automation etc
 
 ## Home Assistant addons
 Mosquitto broker (mqtt)
+
 https://github.com/home-assistant/addons/blob/master/mosquitto/DOCS.md
+
 ESPHome
+
 https://esphome.io/
+
 Music Assistant
+
 https://music-assistant.io/ 
+
 Ring-MQTT with Video Streaming
+
 https://github.com/tsightler/ring-mqtt
+
 snapcast-server
+
 https://github.com/Art-Ev/addon-snapserver
+
 Zigbee2MQTT
+
 https://www.zigbee2mqtt.io/
 
 
