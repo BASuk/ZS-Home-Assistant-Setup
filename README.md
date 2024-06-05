@@ -71,13 +71,22 @@ Zigbee2MQTT
 
 https://www.zigbee2mqtt.io/
 
+# Integrations
 
-My Smart Devices
+
+# Hardware
+## Energy Monitoring/Power Management
+Glow IHD which connects to my "smart" meter
+https://shop.glowmarkt.com/
 
 <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=d051727f1b05f9783311c94ec41b7a07&camp=1634&creative=6738&index=computers&keywords= tapo p110  smart plug with energy monitoring">Tapo P110 Smart Plug with Energy Monitoring </a>
 
 <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=dcf0db99fcd9f8811a2d294fe0b1f09e&camp=1634&creative=6738&index=computers&keywords= tapo p100  smart plug">Tapo P100 Smart Plug </a>
 
+## Climate
+Nest thermostat
+
+## Lighting
 Lidl gu10 smart bulbs
 
 Phillips Hue bulbs
@@ -86,12 +95,24 @@ IKEA TRÅDFRI bulbs
 https://www.ikea.com/gb/en/p/tradfri-led-bulb-b22-1055-lumen-smart-wireless-dimmable-white-spectrum-globe-70517641/
 Works great with Home Assistant and easy to setup with ZHA. Low cost.
 
-IKEA TRÅDFRI motion sensor
+Generic LED strip (using magichome) x2
 
-IKEA Styrbar Remote
+## Motion Sensors
+IKEA TRÅDFRI motion sensor x3
+TUYA mmwave sensor 
+ZigBee contact Sensors x5
+
+## Safety
+TUYA WiFi smoke alarm
+Yale Smarthome water sensor x2
+
+## Remotes/Switches
+IKEA Styrbar Remote x4
 https://www.ikea.com/gb/en/p/styrbar-remote-control-smart-white-60488366/
 Great when they work, but can be a pain. About the same as the Hue switches but much cheaper.
+Hue switch x2
 
+## Sensors
 Custom  <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=883958b075c7546a49bb12350f1088a5&camp=1634&creative=6738&index=computers&keywords=Esp8266 nodemcu boards">ESP8266</a>
 
 with BME280
@@ -99,9 +120,11 @@ with BME280
 
 ## Security
 
-<a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=b18d5cb865489258d94c09d54abd64ab&camp=1634&creative=6738&index=computers&keywords=ANNKE C800 4K POE camera">ANNKE C800</a>
+<a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=b18d5cb865489258d94c09d54abd64ab&camp=1634&creative=6738&index=computers&keywords=ANNKE C800 4K POE camera">ANNKE C800</a> x2
 
-## Voice Assistants
+Yale Smarthome alarm
+
+# Voice Assistants
 Wyoming Satellite
 
 <a target="_blank" href="https://amzn.to/3xdgT3G">Raspberry Pi 3b</a>
@@ -114,15 +137,15 @@ Google Nest Hub
 
 Lenovo Smart Display 7
 
-## Dashboards
+# Dashboards
 Amazon Fire Tablet 
 
 Dakboard
 
 
-### Planned
+# Planned
 
-### Previous kit
+# Previous kit
 Avaya 24 port 1gb managed switch
 This was an older, no longer supported switch and required extra equipment to get working. Much more hassle than it's worth.
 
