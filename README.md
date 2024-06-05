@@ -30,6 +30,9 @@ Accessories: <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8
 ## <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=bae574f2b1d26e1c4dc864b7b4f18a73&camp=1634&creative=6738&index=computers&keywords=Raspberry Pi 4 (8gb)">Raspberry Pi 4 (8gb)</a>
 OS: 
 Purpose: Frigate (in docker container)
+
+https://frigate.video/
+
 Accessories: <a target="_blank" href="https://amzn.to/3RcWwe7">Google Coral TPU USB</a>
 
 ## Raspberry Pi 3b
