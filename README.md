@@ -249,8 +249,10 @@ Wyoming Satellite
 <a target="_blank" href="https://amzn.to/4cyn1U2">Respeaker 2mic</a>
 Generic Speaker
 
-Important Tutorials: 
+Important Tutorials/software: 
 https://github.com/rhasspy/wyoming-satellite
+https://github.com/badaix/snapcast
+
 
 Google Home Mini x6
 
