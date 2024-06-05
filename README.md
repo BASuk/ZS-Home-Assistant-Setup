@@ -57,20 +57,32 @@ My Home Assistant, devices, configs, automation etc
 ### Mosquitto broker (mqtt)
 https://github.com/home-assistant/addons/blob/master/mosquitto/DOCS.md
 
+Honestly, I picked this as it was noob friendly, but it has never once let me down, even with my dodgy python bombarding it with stats and as such stayed.
+
 ### ESPHome
 https://esphome.io/
+
+This add on from the HA team makes building DIY Sensors a doddle.
 
 ### Music Assistant
 https://music-assistant.io/ 
 
+This add on is fantastic and brings my music into Home Assistant. Whilst I am currently playing with Wyoming and snapcast and don't have a finished and reliable speaker at the moment, this will form an important part of reducing my dependence on the cloud.
+
 ### Ring-MQTT with Video Streaming
 https://github.com/tsightler/ring-mqtt
+
+This add on makes my ring doorbell play nice with Home Assistant and makes all of my front door related automation possible. The camera is just an expensive piece of plastic without it.
 
 ### snapcast-server
 https://github.com/Art-Ev/addon-snapserver
 
+Similar to Music Assistant, this will form the backbone of my wyoming smart speakers once I have a reliable and affordable working model that can replace all of the Google minis.
+
 ### Zigbee2MQTT
 https://www.zigbee2mqtt.io/
+
+I previously used ZHA for managing my zigbee network, and it was fantastic and reliable. However, I find my zigbee devices don't always have all of the options/Sensors that should exist and decided to try this. So far it is definitely an upgrade given I love data and pressing random buttons for the lolz. I'd say ZHA for ease of use and getting the basics working and Z2MQTT for better compatibility, more features with less fuss, but not as easy to use (although, after the initial deluge of data and options is quite intuitive).
 
 ## Integrations
 
@@ -86,7 +98,7 @@ Electricity Maps
 
 https://app.electricitymaps.com/map
 
-This shows the current CO2 intensity of my local power (gCO2eq/kWh) and the % of fossil fuel in the grid. I'm not currently using this in automation but plan to curb my energy usage when the grid is dirtiest.
+This shows the current CO2 intensity of my local power (gCO2eq/kWh) and the % of fossil fuel in the grid. I'm not currently using this in automation but plan to curb my energy usage when the grid is dirtiest. Saving the planet watt by watt.
 
 Frigate
 
@@ -104,7 +116,13 @@ Google Cast
 
 Google Nest
 
+Allows control of my Nest thermostat, need I say more? Whilst the thermostat does a fine job using its ai smarts, its even better when using all of the additional sensor data provided by HA. I currently have improved automation based on location and temperature. Including using relevant sensors based on occupancy and time of day. (for example, if upstairs is warm at night, shutdown even if the temperature target has not been met). I am also able to factor in other devices, such as if the electric blankets have been on, don't use the heating. (with the smart plugs controlling the blankets used as a proxy measure).
+
 Google Photos
+
+https://github.com/Daanoz/ha-google-photos
+
+A great little integration which pulls my albums from Google Photos into Home Assistant for use in Dashboards.
 
 Hildebrand Glow IHD MQTT
 
@@ -151,6 +169,8 @@ Snapcast
 PS4
 
 SpeedTest.net
+
+Monitor my Internet speed and automations to warn me if the speed is below 200 mbps or has been below 400mbps for more than one hour.
 
 Tile
 
