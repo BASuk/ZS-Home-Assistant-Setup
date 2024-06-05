@@ -76,6 +76,10 @@ https://www.zigbee2mqtt.io/
 
 Alarmo
 
+https://github.com/nielsfaber/alarmo
+
+This addon supercharges the security of my Home and massively simplifies monitoring.
+
 Android TV remote
 
 Electricity Maps
