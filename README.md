@@ -92,6 +92,10 @@ Frigate
 
 Fully Kiosk Browser
 
+https://www.home-assistant.io/integrations/fully_kiosk
+
+This integration works with my old Fire device to create a control panel for my Home. The integration allows some control of the dashboard and provides some useful data (such as battery level) allowing for automated charging when the tablet needs some juice.
+
 GDACS
 
 Google Calendar
