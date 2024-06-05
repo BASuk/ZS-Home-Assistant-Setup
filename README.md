@@ -77,7 +77,7 @@ https://www.zigbee2mqtt.io/
 
 # Hardware
 ## Energy Monitoring/Power Management
-Glow IHD which connects to my "smart" meter
+Glow IHD which connects to my UK "smart" meter
 https://shop.glowmarkt.com/
 
 <a target="_blank" href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=basuk036-21&linkCode=ur2&linkId=d051727f1b05f9783311c94ec41b7a07&camp=1634&creative=6738&index=computers&keywords= tapo p110  smart plug with energy monitoring">Tapo P110 Smart Plug with Energy Monitoring </a>
@@ -100,17 +100,23 @@ Generic LED strip (using magichome) x2
 
 ## Motion Sensors
 IKEA TRÅDFRI motion sensor x3
+
 TUYA mmwave sensor 
+
 ZigBee contact Sensors x5
 
 ## Safety
 TUYA WiFi smoke alarm
+
 Yale Smarthome water sensor x2
 
 ## Remotes/Switches
 IKEA Styrbar Remote x4
+
 https://www.ikea.com/gb/en/p/styrbar-remote-control-smart-white-60488366/
+
 Great when they work, but can be a pain. About the same as the Hue switches but much cheaper.
+
 Hue switch x2
 
 ## Sensors
