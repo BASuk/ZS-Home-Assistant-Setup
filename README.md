@@ -100,7 +100,9 @@ Google Photos
 
 Hildebrand Glow IHD MQTT
 
+https://github.com/megakid/ha_hildebrand_glow_ihd_mqtt
 
+This makes pulling the data from my electricity and gas meter a lot easier with much less faff!
 
 HomeKit Bridge
 
