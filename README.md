@@ -74,6 +74,87 @@ https://www.zigbee2mqtt.io/
 
 ## Integrations
 
+Alarmo
+
+Android TV remote
+
+Electricity Maps
+
+https://app.electricitymaps.com/map
+
+This shows the current CO2 intensity of my local power (gCO2eq/kWh) and the % of fossil fuel in the grid. I'm not currently using this in automation but plan to curb my energy usage when the grid is dirtiest.
+
+Frigate
+
+Fully Kiosk Browser
+
+GDACS
+
+Google Calendar
+
+Google Cast
+
+Google Nest
+
+Google Photos
+
+Hildebrand Glow IHD MQTT
+
+
+
+HomeKit Bridge
+
+Islamic Prayer Times
+
+Magic Home
+
+Met Office
+
+My local weather, free :)
+
+Music Assistant 
+
+Notifications for Android TV / Fire TV
+
+https://www.home-assistant.io/integrations/nfandroidtv
+
+Love this integration, it allows me to send pictures from my cameras and ring doorbell to my GoogleTV stick as a little coloured box!
+
+Onvif
+
+This is used to reduce the strain on my Frigate server by pulling the stream direct from the camera.
+
+OpenAI Conversation 
+
+Presence Simulation 
+
+https://github.com/slashback100/presence_simulation
+
+This makes my house act like my family are home, even if we are not. What's not to like?
+
+Rhasspy
+
+SmartThings
+
+Snapcast
+
+PS4
+
+SpeedTest.net
+
+Tile
+
+TP Link Smart Home
+
+Tuya
+
+Wyoming Protocol
+
+Xbox
+
+Yale Smart Living
+
+
 
 # Hardware
 ## Energy Monitoring/Power Management
